@@ -1,0 +1,5 @@
+- 👋 ola, eu sou fernanda iaczinski
+- 👀 eu estou interessada em aprender linguagem de programação
+- 🌱 eu estou aprendendo no momento como criar um perfil no github
+- 💞️ procuro colaborar com meu aprendizado
+- 📫 meu email é: fernanda.iaczinski@escola.pr.gov.br
